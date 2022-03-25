@@ -1,0 +1,6 @@
+npm exec html-validate *.html
+
+i tu mam pytanie - załóżmy że mam kilka katalogów z plikami .html i chciałbym
+jedną komendą sprawdzić wszystkie.
+Jak podać ich ścieżki w komendzie uruchamianej 
+z katalogu głównego projektu, w którym też są pliki html, które chcę sprawdzić?
